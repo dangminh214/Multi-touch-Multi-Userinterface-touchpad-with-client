@@ -8,7 +8,8 @@ https://drive.google.com/file/d/1Q4Ugnqn7_oTC6aYwn_X1tLmU105oD8K-/view?usp=drive
 
 To Scale: 
 You can scale up and down, one finger hold inside the interactive object and the other finger move to scale the interactive object up and down
-![image](https://github.com/dangminh214/Multi_touch_multi_userinterface_touchpad_with_client/assets/51837721/f9951cc5-c56b-46fc-9297-9c179941cda3)
+Scale Up: ![image](https://github.com/dangminh214/Multi_touch_multi_userinterface_touchpad_with_client/assets/51837721/2e2eab58-787f-4d98-b05a-49be0189f360)
+Scale Down: ![image](https://github.com/dangminh214/Multi_touch_multi_userinterface_touchpad_with_client/assets/51837721/c94c242f-fb3c-4a00-b12f-b48992736988)
 
 https://drive.google.com/file/d/1FQvOGTSRWFHwNwg93J9oSJ_tDYDLAmSE/view?usp=drive_link
 https://drive.google.com/file/d/1J8ox_ROyRQsIGhj78BBUX2gj50Iagj0Z/view?usp=drive_link
