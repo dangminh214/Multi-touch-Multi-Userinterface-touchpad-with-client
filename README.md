@@ -1,5 +1,6 @@
 A Project of module Multi Tocuh, Multi User Interface. This is used as a Touchpad and an object. The object can be moved, rotated, and scaled up and down using the Simualator as a Touchpad
-![image](https://github.com/dangminh214/Multi_touch_multi_userinterface_touchpad_with_client/assets/51837721/192a323d-f143-41a9-8a1d-925556f7fc99)
+![image](https://github.com/dangminh214/Multi_touch_multi_userinterface_touchpad_with_client/assets/51837721/87106af4-b83d-4c6a-b3cc-39b756c5f988)
+
 To Rotate: 
 https://drive.google.com/file/d/1Q4Ugnqn7_oTC6aYwn_X1tLmU105oD8K-/view?usp=drive_link
 
