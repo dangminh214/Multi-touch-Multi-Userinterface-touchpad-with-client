@@ -1,0 +1,15 @@
+﻿  MyClient.cpp
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(5,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(6,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(25,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(26,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(59,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(60,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(133,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(134,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(145,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(207,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(208,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Tuio Client Example\MyClient.cpp(110): warning C4715: 'MyClient::getHoldingPoint': not all control paths return a value
+  Tuio Client Example.vcxproj -> C:\Users\dangm\Documents\Client_Glut_Version - Praktikum 2\Debug\Tuio Client Example.exe
